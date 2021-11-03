@@ -16,12 +16,12 @@ Currently, working in *Software Engineering Division* as a ***Back End Developer
 <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhafiihza&count_private=true&theme=radical" alt="ashok" />
 
 ## 📫 How to reach me: 
-satriadinata2@gmail.com
+rhafiihzaraja@gmail.com
                     
 ## 🌱 I’m currently learning more about:
     - Javascript for web development 
-    - Design Pattern
-    - CI/CD
+    - Frontend Web Development
+    - System Analyst
     
 
 
