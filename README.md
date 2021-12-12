@@ -11,8 +11,9 @@ Currently, working in *Software Engineering Division* as a ***Back End Developer
 - Laravel
 - GIT (VCS)
 - JavaScript For Backend (Express JS)
-- React Native
 - React JS
+- Tailwind CSS
+- Golang
 
 <img src="https://github-profile-trophy.vercel.app/?username=rhafiihza&theme=tokyonight&margin-w=15" />
 <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhafiihza&count_private=true&theme=radical" alt="ashok" />
