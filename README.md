@@ -3,17 +3,18 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhafiihza)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💼 Career
-Currently, working in *Software Engineering Division* as a ***Back End Developer*** at Lyrid Prima Indonesia. Helping Lyrid to build application services for our customers.
+Currently, i'm open to work as a ***Back End Developer***.
 
 ## 💻 Experiences
+- HTML / CSS
+- Javascript
 - PHP
 - Codeigniter
 - Laravel
 - GIT (VCS)
-- JavaScript For Backend (Express JS)
+- Express JS
 - React JS
 - Tailwind CSS
-- Golang
 
 <img src="https://github-profile-trophy.vercel.app/?username=rhafiihza&theme=tokyonight&margin-w=15" />
 <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhafiihza&count_private=true&theme=radical" alt="ashok" />
